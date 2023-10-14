@@ -2,7 +2,7 @@
 机器人创客俱乐部电控考核
 
 1. 成功下载Keil软件，安装对应芯片包
-   参考博客：http://t.csdn.cn/eDETH
+   参考博客：http://t.csdnimg.cn/lxSST
    【文件】CH32F103EVT：此芯片的芯片包
 2. 下载STlink驱动(烧录需要)
    
